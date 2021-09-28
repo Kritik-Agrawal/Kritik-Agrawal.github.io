@@ -14,9 +14,11 @@
 #tabd1
 {
     color:darkslategray;
+    border: 1px black solid;
 }
 
 #tabd2
 {
     color:deeppink;
+    border: 1px black solid;
 }
