@@ -8,5 +8,15 @@
 #tabh1
 {
     color:darkorchid;
-    text-align: center;
+    text-align: justify;
+}
+
+#tabd1
+{
+    color:darkslategray;
+}
+
+#tabd2
+{
+    color:deeppink;
 }
