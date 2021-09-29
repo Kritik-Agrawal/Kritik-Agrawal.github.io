@@ -2,11 +2,17 @@
 
 Home: Dynamic Web page, stuff should move around, cool wallpaper and stuff
 
-## Hobbies
+## Exploring Stuff
 
-Fiction reading
-Clash Of Clans
-History, Politics, Economics
+3D printing
+Ethical Hacking/Penetration testing intro
+Experimenting around with Linux and Dual boot
+Kali Linux, Ubuntu, Debian, PopOS, ElementaryOS, KUbuntu, Lubuntu, PuppyLinux
+C, C++, Python, CS50
+MS Office Suite, professional course at the age of 10
+Comfortable with tinkering with both Hardware and Software but all doesn't always go well
+Broken and then repaired BIOS
+Arduino, Raspberry Pi, Wireless Transmission with nRF24l01 in a few days
 
 ## Drone Stuff
 
@@ -65,3 +71,16 @@ Trying out FPV
 Liftoff
 Crash due to video loss
 Drone regulations
+
+### Fifth Iteration
+
+Currently planned
+Full FPV Setup and all that stuff
+One iNav Quad planned too...
+
+## Hobbies
+
+Fiction reading
+Dan Brown : Robert Langdon Series, Infinity Ring, Percy Jackson, Harry Potter, Hardy Boys, Sherlock Holmes, Folk tales, Jataka Tales
+Clash Of Clans
+History, Politics, Economics, Religion
