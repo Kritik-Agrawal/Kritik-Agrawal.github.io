@@ -1,6 +1,8 @@
 body
 {
-    background-image:url("./Wallpaper/05.jpg");
+    background-image:url("./Wallpaper/02.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
 }
 
 #tab1
